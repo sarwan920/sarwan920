@@ -1,6 +1,6 @@
 ### Hi there 👋
 ![sarwan's github stats](https://github-readme-stats.vercel.app/api?username=sarwan920&show_icons=true&theme=radical)
-- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
+
 <!--
 **sarwan920/sarwan920** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
