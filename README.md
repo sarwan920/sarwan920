@@ -5,7 +5,7 @@
 
 <br/>
 <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarwan920)](https://github.com/sarwan920/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarwan920)]
 
 
 <!--
