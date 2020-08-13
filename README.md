@@ -1,32 +1,26 @@
 ### Hi there 👋
 ## I'm a  Full Stack Web Developer!
 
+<br/>
 ![sarwan's github stats](https://github-readme-stats.vercel.app/api?username=sarwan920&show_icons=true&bg_color=eeeeee&title_color=222831&icon_color=222831&text_color=0F9B8E)
-
 <br/>
-<br/>
+## Most Lanugages Used by Me
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical" />
 
-
-<!--
-**sarwan920/sarwan920** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+- 🔭 I’m currently working on Online Shop Project
+- 🌱 I’m currently learning Vue Js
+- 👯 I’m looking to collaborate on any Web Development Project
+- 🤔 I’m looking for help with Nothing :D
+- 💬 Ask me about any thing
+- 📫 How to reach me: sarwan.nizamani8@gmail.com
+- 😄 Pronouns: I don't have any
+- ⚡ Fun fact: I am fun fact myself
 
 <br />
 <br />
 
-
+## My Skills
 <img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
