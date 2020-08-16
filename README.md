@@ -11,7 +11,7 @@
 - ⚡ Fun fact: I am fun fact myself
 
 
-![sarwan's github stats](https://github-readme-stats.vercel.app/api?username=sarwan920&show_icons=true&bg_color=eeeeee&title_color=222831&icon_color=222831&text_color=0F9B8E)
+![sarwan's github stats](https://github-readme-stats.vercel.app/api?username=sarwan920&show_icons=true&bg_color=white&title_color=222831&icon_color=222831&text_color=0F9B8E)
 <br/>
 ## Most Lanugages Used by Me
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sarwan920&layout=compact&bg_color=eeeeee&title_color=222831&icon_color=222831&text_color=0F9B8E" />
